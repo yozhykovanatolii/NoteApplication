@@ -54,17 +54,17 @@ A simple and convenient mobile application on Flutter for creating, editing and 
    ```
 
 ## Screenshots
-<p align="center">
+<p>
   <img src="screenshots/screen1.png" width="200"/>
   <img src="screenshots/screen2.png" width="200"/>
   <img src="screenshots/screen3.png" width="200"/>
 </p>
-<p align="center">
+<p>
   <img src="screenshots/screen4.png" width="200"/>
   <img src="screenshots/screen5.png" width="200"/>
   <img src="screenshots/screen6.png" width="200"/>
 </p>
-<p align="center">
+<p>
   <img src="screenshots/screen7.png" width="200"/>
 </p>
 
