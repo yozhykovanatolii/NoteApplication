@@ -64,7 +64,7 @@ A simple and convenient mobile application on Flutter for creating, editing and 
   <img src="screenshots/screen5.png" width="200"/>
   <img src="screenshots/screen6.png" width="200"/>
 </p>
-<p>
+<p align="center">
   <img src="screenshots/screen7.png" width="200"/>
 </p>
 
