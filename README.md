@@ -54,12 +54,12 @@ A simple and convenient mobile application on Flutter for creating, editing and 
    ```
 
 ## Screenshots
-<p>
+<p align="center">
   <img src="screenshots/screen1.png" width="200"/>
   <img src="screenshots/screen2.png" width="200"/>
   <img src="screenshots/screen3.png" width="200"/>
 </p>
-<p>
+<p align="center">
   <img src="screenshots/screen4.png" width="200"/>
   <img src="screenshots/screen5.png" width="200"/>
   <img src="screenshots/screen6.png" width="200"/>
@@ -67,6 +67,7 @@ A simple and convenient mobile application on Flutter for creating, editing and 
 <p>
   <img src="screenshots/screen7.png" width="200"/>
 </p>
+
 
 
 [dart-shield]: https://img.shields.io/static/v1?message=v3.6.0&color=orange&label=Dart
