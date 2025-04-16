@@ -38,7 +38,12 @@
 4. Navigate to the project directory:
 
    ```
-   cd NoteApp
+   cd NoteApplication
+   ```
+5. Install dependencies:
+
+   ```
+   flutter pub get
    ```
 6. Run the app:
 
