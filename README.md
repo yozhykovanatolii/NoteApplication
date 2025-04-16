@@ -1,5 +1,7 @@
 # Flutter Note App
 
+A simple and convenient mobile application on Flutter for creating, editing and deleting categories and notes associated with them. It is also possible to search for notes within the selected category.
+
 ## Technologies
 
 ### Core Technologies
